@@ -1,6 +1,6 @@
 # 👋 Visão! Me chamo Pietro Vieira
 
-Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitHub**, **programação** e **criação de projetos web e mobile**. Tenho interesse especial em [escreva seu interesse aqui: ex. Front-End, Back-End, Mobile, Banco de Dados, UX/UI, etc.].
+Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitHub**, **programação** e **criação de projetos web e mobile**. Tenho interesse especial em me desenvolver cada vez mais nessa área e conseguir obter novos conhecimentos úteis para mim!
 
 ---
 
@@ -36,7 +36,6 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 | **Nome do Projeto 2** | [🔗 Ver online](https://seu-link.com) | Node.js / Express / MySQL|
 | **Nome do Projeto 3** | [🔗 Ver online](https://seu-link.com) | Flutter / Dart           |
 
-> 💡 Dica: Quando você publicar um projeto no GitHub Pages, coloque o link aqui!
 
 ---
 
@@ -52,6 +51,6 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 
 ## 📫 Entre em contato
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/seuusuario)  
+
 [![Instagram](https://img.shields.io/badge/-[Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/seuusuario](https://www.instagram.com/pietroohg/?next=%2F))  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/seuusuario)
