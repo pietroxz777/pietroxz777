@@ -53,4 +53,4 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 
 
 [![Instagram](https://img.shields.io/badge/-[Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/seuusuario](https://www.instagram.com/pietroohg/?next=%2F))  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/seuusuario)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)]([https://github.com/seuusuario](https://github.com/pietroxz777))
